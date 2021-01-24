@@ -1,3 +1,5 @@
+package org.vlkn;
+
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Saying {

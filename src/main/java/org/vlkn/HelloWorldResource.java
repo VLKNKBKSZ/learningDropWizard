@@ -1,3 +1,5 @@
+package org.vlkn;
+
 import com.codahale.metrics.annotation.Timed;
 
 import javax.ws.rs.GET;
